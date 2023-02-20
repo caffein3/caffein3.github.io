@@ -1,6 +1,7 @@
 body {
     background-color: orange;
     font-family:monospace;
-    color:#0f0202;
-    font-size:large
+    font-size:large;
+    text-align: center;
+    color: blue
 }
