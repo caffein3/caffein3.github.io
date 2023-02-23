@@ -1,16 +1,21 @@
-
 body {
-    background-color:rgb(69, 69, 72);
+    background-color: rgb(69, 69, 72);
     font-family: monospace;
-    text-align:justify;
-    font-size:large;
+    text-align: justify;
+    font-size: large;
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 2px
-    }
-.sametext {
-    color:white
 }
+
+.gentext {
+    color: white
+}
+
 .hyperlink {
-    color:rgb(150, 230, 230)
+    color: rgb(150, 230, 230)
+}
+
+.devmark {
+    color: rgb(166, 237, 237)
 }

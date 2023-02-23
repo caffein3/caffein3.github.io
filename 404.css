@@ -1,7 +1,12 @@
+.notfound {color:rgb(248, 246, 246);
+font-family:monospace;
+text-align:center;
+margin-bottom:250px}
 body {
-    background-color: orange;
-    font-family:monospace;
-    font-size:large;
-    text-align: center;
-    color: rgb(2, 2, 2)
+    background-color:  rgb(69, 69, 72)
 }
+.notfoundshrug {color:rgb(248, 246, 246);
+    font-family:monospace;
+    text-align:center;
+    margin-top:calc(240px);
+font-size:calc(10000)}
