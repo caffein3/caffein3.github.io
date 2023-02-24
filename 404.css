@@ -1,12 +1,19 @@
-.notfound {color:rgb(248, 246, 246);
-font-family:monospace;
-text-align:center;
-margin-bottom:250px}
-body {
-    background-color:  rgb(69, 69, 72)
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap');
+
+.notfound {
+    color: rgb(248, 246, 246);
+    text-align: center;
+    margin-bottom: 250px
 }
-.notfoundshrug {color:rgb(248, 246, 246);
-    font-family:monospace;
-    text-align:center;
-    margin-top:calc(240px);
-font-size:calc(10000)}
+
+body {
+    background-color: rgb(69, 69, 72);
+    font-family: 'Inconsolata', monospace
+}
+
+.notfoundshrug {
+    color: rgb(248, 246, 246);
+    text-align: center;
+    margin-top: calc(240px);
+    font-size: calc(10000)
+}
