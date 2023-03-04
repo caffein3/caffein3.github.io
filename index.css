@@ -1,7 +1,9 @@
 @import url(https://fonts.bunny.net/css?family=inconsolata:600);
 
 body {
-  background-color: rgb(69, 69, 72);
+  background-image: url(cdn/OIP.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   font-family: "Inconsolata", monospace;
   text-align: justify;
   font-size: large;
