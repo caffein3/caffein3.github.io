@@ -1,23 +1,23 @@
 @import url(https://fonts.bunny.net/css?family=inconsolata:600);
 
 body {
-    background-color: rgb(69, 69, 72);
-    font-family: 'Inconsolata', monospace;
-    text-align: justify;
-    font-size: large;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 2px
+  background-color: rgb(69, 69, 72);
+  font-family: "Inconsolata", monospace;
+  text-align: justify;
+  font-size: large;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 2px;
 }
 
 .gentext {
-    color: white
+  color: white;
 }
 
 .hyperlink {
-    color: rgb(150, 230, 230)
+  color: rgb(150, 230, 230);
 }
 
 .devmark {
-    color: rgb(166, 237, 237)
+  color: rgb(166, 237, 237);
 }

@@ -1,13 +1,13 @@
 @import url(https://fonts.bunny.net/css?family=inconsolata:600);
 
 body {
-    background-color: rgb(69, 69, 72);
-    font-family: 'Inconsolata', monospace;
-    font-size: large;
-    color: white
+  background-color: rgb(69, 69, 72);
+  font-family: "Inconsolata", monospace;
+  font-size: large;
+  color: white;
 }
 
 h1 {
-    text-align: center;
-    margin-top: 270px
+  text-align: center;
+  margin-top: 270px;
 }

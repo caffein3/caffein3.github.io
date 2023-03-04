@@ -1,19 +1,19 @@
 @import url(https://fonts.bunny.net/css?family=inconsolata:600);
 
 .notfound {
-    color: rgb(248, 246, 246);
-    text-align: center;
-    margin-bottom: 250px
+  color: rgb(248, 246, 246);
+  text-align: center;
+  margin-bottom: 250px;
 }
 
 body {
-    background-color: rgb(69, 69, 72);
-    font-family: 'Inconsolata', monospace
+  background-color: rgb(69, 69, 72);
+  font-family: "Inconsolata", monospace;
 }
 
 .notfoundshrug {
-    color: rgb(248, 246, 246);
-    text-align: center;
-    margin-top: calc(240px);
-    font-size: calc(10000)
+  color: rgb(248, 246, 246);
+  text-align: center;
+  margin-top: calc(240px);
+  font-size: calc(10000);
 }
