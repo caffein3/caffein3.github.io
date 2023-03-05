@@ -1,10 +1,10 @@
-@import url(https://fonts.bunny.net/css?family=inconsolata:600);
+@import url(https://fonts.bunny.net/css?family=Assistant:600);
 
 body {
   background-image: url(cdn/OIP.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  font-family: "Inconsolata", monospace;
+  font-family: "Assistant";
   text-align: justify;
   font-size: large;
   margin-left: 100px;
@@ -23,3 +23,4 @@ body {
 .devmark {
   color: rgb(166, 237, 237);
 }
+/*Website is more formal (yay) (problem solved) (cops not called) (gone right)
