@@ -1,9 +1,9 @@
-@import url(https://fonts.bunny.net/css?family=Assistant:600);
+@import url(https://fonts.bunny.net/css?family=Inconsolata:600);
 
 body {
   background-color: rgb(69, 69, 72);
   background-repeat: no-repeat;
-  font-family: "Assistant";
+  font-family: "Inconsolata";
   text-align: justify;
   font-size: large;
   margin-left: 100px;
