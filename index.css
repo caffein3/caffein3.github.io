@@ -1,8 +1,7 @@
 @import url(https://fonts.bunny.net/css?family=Assistant:600);
 
 body {
-  background-image: url(cdn/OIP.jpg);
-  background-size: cover;
+  background-color: rgb(69, 69, 72);
   background-repeat: no-repeat;
   font-family: "Assistant";
   text-align: justify;
@@ -23,4 +22,3 @@ body {
 .devmark {
   color: rgb(166, 237, 237);
 }
-/*Website is more formal (yay) (problem solved) (cops not called) (gone right)
