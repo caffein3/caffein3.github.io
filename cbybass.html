@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Check Username Availability</title>
+	<script>
+		function checkUsername(username) {
+			// Construct the URL for the Mojang API endpoint
+			var url = "https://api.mojang.com/users/profiles/minecraft/" + username;
+
+			// Send a GET request to the API
+			fetch(url)
+				.then(response => response.json())
+				.then(data => {
+					// If the API returns a UUID, then the username is taken
+					if (data.id) {
+						alert("Username " + username + " is taken.");
+					} else {
+						alert("Username " + username + " is available.");
+					}
+				})
+				.catch(error => {
+					alert("Error: " + error);
+				});
+		}
+	</script>
+</head>
+<body>
+	<label for="username-input">Enter a username:</label>
+	<input id="username-input" type="text">
+	<button onclick="checkUsername(document.getElementById('username-input').value)">Check</button>
+</body>
+</html>
